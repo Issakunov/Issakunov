@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engeneer
 -----------------
 
-Creative Java developer with more than 1 year of commercial experience in cutting-edge web applications. Combines development knowledge in SOAP, REST, and Spring Framework to create reliable, flexible solutions. Comfortable handling frontend and backend assets. Excellent reputation for resolving problems and improving customer satisfaction. Ready to enhance existing code or undertake full development lifecycles to produce efficient, effective web service solutions.
+Creative Software Engeneer with more than 1 year of commercial experience in cutting-edge web applications. Combines development knowledge in SOAP, REST, and Spring Framework to create reliable, flexible solutions. Comfortable handling frontend and backend assets. Excellent reputation for resolving problems and improving customer satisfaction. Ready to enhance existing code or undertake full development lifecycles to produce efficient, effective web service solutions.
 
 * 🌍  I'm based in Chicago, Illinois
 * ✉️  You can contact me at [ataissakunov@gmail.com](mailto:ataissakunov@gmail.com)
