@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Atabek
 ===============================================================================================================================================
 
-Software Engeneer
+Software Engineer
 -----------------
 
-Creative Software Engeneer with more than 1 year of commercial experience in cutting-edge web applications. Combines development knowledge in SOAP, REST, and Spring Framework to create reliable, flexible solutions. Comfortable handling frontend and backend assets. Excellent reputation for resolving problems and improving customer satisfaction. Ready to enhance existing code or undertake full development lifecycles to produce efficient, effective web service solutions.
+Creative Software Engineer with over one year of commercial experience in cutting-edge web applications. Combines SOAP, REST, and Spring Framework development knowledge to create reliable, flexible solutions. Comfortable handling frontend and backend assets. Excellent reputation for resolving problems and improving customer satisfaction. Ready to enhance existing code or undertake full development lifecycles to produce efficient, effective web service solutions.
 
 * 🌍  I'm based in Chicago, Illinois
 * ✉️  You can contact me at [ataissakunov@gmail.com](mailto:ataissakunov@gmail.com)
